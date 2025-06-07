@@ -17,16 +17,16 @@ Notre mission a couvert l'ensemble de la chaîne Big Data :
 - Données issues de plusieurs années (archives FTP)
 
 ## Étapes du projet
-Phase 1 - Architecture & Modélisation
+**Phase 1 - Architecture & Modélisation**
 - Étude de l'architecture big data adaptée au contexte hospitalier
 - Conception du modèle conceptuel et modèle physique des données
 
-Phase 2 - Ingestion & Stockage
+**Phase 2 - Ingestion & Stockage**
 - Scripts de création des tables
 - Chargement des données via scripts d'intégration
 - Implémentation des partitions et buckets pour optimiser les accès
 
-Phase 3 - Performance & Visualisation
+**Phase 3 - Performance & Visualisation**
 - Requêtes d'analyse selon les critères utilisateurs
 - Mesures des temps de réponse via des graphes de performance
 - Dashboards Power BI pour la restitution finale
@@ -55,16 +55,16 @@ Our mission spanned the full Big Data pipeline:
 - Work with multi-year historical data
 
 ## Project Phases
-Phase 1 – Architecture & Modeling
+**Phase 1 – Architecture & Modeling**
 - Analysis of a big data architecture suited to the hospital environment
 - Design of the conceptual and physical data models
 
-Phase 2 – Ingestion & Storage
+**Phase 2 – Ingestion & Storage**
 - Table creation scripts
 - Data loading via integration scripts
 - Implementation of partitions and buckets to optimize data access
 
-Phase 3 – Performance & Visualization
+**Phase 3 – Performance & Visualization**
 - Analytical queries based on user requirements
 - Response time measurements using performance graphs
 - Power BI dashboards for final data presentation
